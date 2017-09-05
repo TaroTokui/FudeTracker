@@ -1,0 +1,6 @@
+ofxCv
+ofxGui
+ofxKinectDepth16
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
