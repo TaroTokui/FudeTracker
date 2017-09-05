@@ -36,8 +36,12 @@ project.xcworkspace
 
 .svn/
 obj/
-bin/
 build/
-!data/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
 
 ofxCv.wiki/
